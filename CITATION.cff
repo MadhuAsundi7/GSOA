@@ -1,9 +1,1 @@
-cff-version: 1.2.0
-title: "GSOA: Gravitational Slingshot Optimization Algorithm"
-message: "If you use this software, please cite it as below."
-type: software
-authors:
-  - family-names: "REPLACE-WITH-SURNAME"
-    given-names: "REPLACE-WITH-FIRST-NAME"
-repository-code: "https://github.com/REPLACE-WITH-USER/REPLACE-WITH-REPO"
-license: MIT
+
