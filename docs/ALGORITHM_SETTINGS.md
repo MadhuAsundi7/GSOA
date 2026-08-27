@@ -90,4 +90,3 @@ is applied. Its results are not comparable to published CEC2017 figures.
 | Budget | MaxFES = 200,000 |
 | Runs | 30 (seeds 0–29) |
 | GSOA α* | +0.5 on B1, B2 and B3 |
-| Excluded | `EGSOA` (2 runs only, archived) |
