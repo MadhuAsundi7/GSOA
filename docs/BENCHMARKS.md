@@ -62,17 +62,7 @@ custom benchmark.
 * **Compositions (F21–F29)** — three components with σ = (10, 20, 30) and
   λ = (1, 10, 1), Gaussian weights, and a probe-based normalisation constant.
 
-### Two caveats
 
-**Repeated kernels.** The 29 functions use eleven distinct kernels. Rastrigin
-appears at F5, F10 and F17; Ackley at F6, F11 and F18. The functions are
-therefore not 29 independent landscapes.
-
-**Unbounded functions.** F9, F12 and F20 contain Schwefel components that are
-unbounded below in the rotated space, so the objective can fall below the
-nominal bias. Values for these functions are offset objective values, not
-errors relative to a known optimum. Result files store raw objective values
-including the bias.
 
 ---
 
