@@ -45,7 +45,7 @@ Its shift vectors are drawn from U(−80, 80) and its rotation matrices from the
 QR factorisation of Gaussian matrices under a fixed seed, rather than taken
 from the CEC2017 competition data files. No domain shrink rate is applied, and
 several kernels differ from their CEC2017 counterparts. **Results on it are
-not comparable to published CEC2017 figures** and it should be described as a
+not comparable to published CEC2017 figures** and it is a
 custom benchmark.
 
 ### Construction
