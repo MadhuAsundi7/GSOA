@@ -66,8 +66,7 @@ custom benchmark.
 
 **Repeated kernels.** The 29 functions use eleven distinct kernels. Rastrigin
 appears at F5, F10 and F17; Ackley at F6, F11 and F18. The functions are
-therefore not 29 independent landscapes, which weakens the independent-blocks
-assumption behind the Friedman test.
+therefore not 29 independent landscapes.
 
 **Unbounded functions.** F9, F12 and F20 contain Schwefel components that are
 unbounded below in the rotated space, so the objective can fall below the
