@@ -5,7 +5,7 @@ Phase 1: alpha grid search per problem, scored as the mean over held-out
          seeds that are never used for evaluation.
 Phase 2: 30 independent runs at alpha*, seeds 0-29.
 
-Protocol matches the repository's existing results exactly: native search in
+native search in
 [-100,100]^D with affine rescaling to true bounds inside the evaluator,
 static penalty 1e6, MaxFES = 200,000, output as a 16 x 30 matrix of
 best-so-far values at the 16 CEC checkpoints.
